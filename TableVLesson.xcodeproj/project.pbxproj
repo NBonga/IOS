@@ -13,6 +13,7 @@
 		ABD4671E2A1CC1E300F3B11E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABD4671C2A1CC1E300F3B11E /* Main.storyboard */; };
 		ABD467202A1CC1E400F3B11E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABD4671F2A1CC1E400F3B11E /* Assets.xcassets */; };
 		ABD467232A1CC1E400F3B11E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABD467212A1CC1E400F3B11E /* LaunchScreen.storyboard */; };
+		ABD4672D2A1CC2E600F3B11E /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD4672C2A1CC2E600F3B11E /* CustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ABD4671F2A1CC1E400F3B11E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABD467222A1CC1E400F3B11E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABD467242A1CC1E400F3B11E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABD4672C2A1CC2E600F3B11E /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ABD467162A1CC1E300F3B11E /* AppDelegate.swift */,
 				ABD467182A1CC1E300F3B11E /* SceneDelegate.swift */,
 				ABD4671A2A1CC1E300F3B11E /* ViewController.swift */,
+				ABD4672C2A1CC2E600F3B11E /* CustomCell.swift */,
 				ABD4671C2A1CC1E300F3B11E /* Main.storyboard */,
 				ABD4671F2A1CC1E400F3B11E /* Assets.xcassets */,
 				ABD467212A1CC1E400F3B11E /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABD4671B2A1CC1E300F3B11E /* ViewController.swift in Sources */,
+				ABD4672D2A1CC2E600F3B11E /* CustomCell.swift in Sources */,
 				ABD467172A1CC1E300F3B11E /* AppDelegate.swift in Sources */,
 				ABD467192A1CC1E300F3B11E /* SceneDelegate.swift in Sources */,
 			);
